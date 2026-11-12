@@ -40,7 +40,6 @@ wordpress-compose-fakhri/
 └── bukti-running/
     ├── docker-ps.png
     ├── wordpress-browser.png
-    └── artikel-uji.png
 
 ```
 
