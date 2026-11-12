@@ -39,7 +39,7 @@ wordpress-compose-fakhri/
 ├── README.md
 └── bukti-running/
     ├── docker-ps.png
-    ├── wordpress-browser.png
+    └── wordpress-browser.png
 
 ```
 
